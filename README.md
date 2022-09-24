@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jacques</h1>
-<h3 align="center">I'm 20, just a young student studying at EFREI Paris and having fun coding !</h3>
 <p align="center"> <i>Work hard in silence let success make the noise</i> </p>
 
 - 🔭 I’m currently working on **Security Linux**
-
-- 📫 How to reach me **jacqueswu.pro@gmail.com**
 
 ## Who am I?
 
@@ -12,6 +9,7 @@
   class WhoAmI:
     user = 'Jacques WU'
 	current_edu = "Efrei Paris"
+	current_years_old = 20
     currently_learning = "Cybersecurity"
     fun_fact = "Can't eat spicy things"
 	hobbies = [
