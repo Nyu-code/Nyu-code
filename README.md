@@ -25,13 +25,13 @@
  ```
 <p align="center"> <i>Work hard in silence let success make the noise</i> </p>
 
-## Github Stats
+## 📚 Github Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=nyu-code&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=nyu-code&theme=blueberry_duo"/>
 |---|---|
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyu-code&layout=compact&theme=github_dark"/>|
 
-## Programming Languages
+## 💻 Programming Languages
 
 <p>
 	<a href="#"><img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
@@ -45,7 +45,7 @@
 	<a href="#"><img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"></a>
 </p>
 
-## Operating Systems
+## 💾 Operating Systems
 <p>
 	<a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
 	<a href="#"><img alt="Debian" src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white"></a>
@@ -53,12 +53,12 @@
 	<a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
 </p>
 
-## Database
+## 💿 Database
 <p>
 	<a href="#"><img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
 </p>
 
-## Software and Tools
+## 🛠️ Software and Tools
 <p>
 	<a href="#"><img alt="Github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
 	<a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
@@ -66,7 +66,7 @@
 	<a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"></a>
 </p>
 
-## Connect with Me
+## 🔗 Connect with Me
 
 <p align="center">
   <a href="https://linkedin.com/in/jacques-w/"><img alt="Linkedin" title="Jacques WU Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
