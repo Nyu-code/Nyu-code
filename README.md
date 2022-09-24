@@ -1,15 +1,12 @@
-<h1 align="center">Hi 👋, I'm Jacques</h1>
 <p align="center"> <i>Work hard in silence let success make the noise</i> </p>
-
-- 🔭 I’m currently working on **Security Linux**
-
-## Who am I?
+## 🔭 Who am I?
 
  ```python
   class WhoAmI:
     user = 'Jacques WU'
 	current_edu = "Efrei Paris"
 	current_years_old = 20
+currently_working_on = "Security Linux"	
     currently_learning = "Cybersecurity"
     fun_fact = "Can't eat spicy things"
 	hobbies = [
