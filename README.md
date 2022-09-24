@@ -5,7 +5,7 @@
     user = 'Jacques WU'
 	current_edu = "Efrei Paris"
 	current_years_old = 20
-currently_working_on = "Security Linux"	
+    currently_working_on = "Security Linux"	
     currently_learning = "Cybersecurity"
     fun_fact = "Can't eat spicy things"
 	hobbies = [
