@@ -66,7 +66,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/jacques-w/"><img alt="Linkedin" title="Jacques WU Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/nyuo-code"><img alt="Github" title="Jacques WU Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/nyu-code"><img alt="Github" title="Jacques WU Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
  </p>
  <p align="center">
   <a href="mailto:jacqueswu.pro@gmail.com"><img alt="Gmail" title="Jacques WU Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
