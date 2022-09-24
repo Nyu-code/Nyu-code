@@ -1,4 +1,3 @@
-<p align="center"> <i>Work hard in silence let success make the noise</i> </p>
 ## 🔭 Who am I?
 
  ```python
@@ -24,8 +23,8 @@ currently_working_on = "Security Linux"
 		FinishMyProjects()
 	
  ```
+<p align="center"> <i>Work hard in silence let success make the noise</i> </p>
 
- 
 ## Github Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=nyu-code&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=nyu-code&theme=blueberry_duo"/>
