@@ -46,7 +46,9 @@ currently_working_on = "Security Linux"
 	
 </p>
 ## Database
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<p>
+<a href="#"><img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
+</p>
 
 ## Software and Tools
 <p>
