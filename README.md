@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jacques</h1>
-<h3 align="center">I'm 20, currently studying at EFREI Paris.</h3>
+<h3 align="center">I'm 20, just a young student studying at EFREI Paris and having fun coding !</h3>
 <p align="center"> <i>Work hard in silence let success make the noise</i> </p>
 
 - 🔭 I’m currently working on **Security Linux**
