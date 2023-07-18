@@ -1,27 +1,28 @@
 ## 🔭 Who am I?
 
  ```python
-  class WhoAmI:
-    user = 'Jacques WU'
-	current_edu = "Efrei Paris"
-	current_years_old = 21
-	current_email = "jacqueswu.pro@gmail.com"
-    currently_working_on = "Security Linux"
-    currently_learning = "Cybersecurity & Cloud"
-    fun_fact = "Can't eat spicy things"
-	hobbies = [
-				'Music',
-                         'Chilling',
-			 	'Gaming',
-				'Badminton'
-			]
-	
-	def getCity():
-		return Bobigny_France()
-	
-	def Ambitions():
-		BecomeSecurityEngineer()
-		FinishMyProjects()
+class whoami:
+  def __init__(self):   
+    self.user = 'Jacques WU'
+    self.current_edu = "Efrei Paris"
+    self.current_years_old = 21
+    self.current_email = "jacqueswu.pro@gmail.com"
+    self.currently_working_on = "ProjetPA5"
+    self.currently_learning = "Cybersecurity & Cloud"
+    self.fun_fact = "Can't eat spicy things"
+    self.hobbies = [
+               'Music',
+		'Chilling',
+                'Gaming',
+               'Badminton'
+           ]
+   
+   def get_city(self):
+       return bobigny_france()
+   
+   def ambitions():
+       become_security_engineer()
+       finish_my_projects()
 	
  ```
 <p align="center"> <i>Work hard in silence let success make the noise</i> </p>
