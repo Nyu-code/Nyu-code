@@ -14,7 +14,7 @@ class whoami:
                'Music',
                 'Chilling',
                 'Gaming',
-               'Badminton'
+                'Badminton'
            ]
    
    def get_city(self):
