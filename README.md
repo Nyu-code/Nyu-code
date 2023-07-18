@@ -12,9 +12,9 @@ class whoami:
     self.fun_fact = "Can't eat spicy things"
     self.hobbies = [
                'Music',
-                'Chilling',
-                'Gaming',
-                'Badminton'
+               'Chilling',
+               'Gaming',
+               'Badminton'
            ]
    
    def get_city(self):
