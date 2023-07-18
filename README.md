@@ -12,7 +12,7 @@ class whoami:
     self.fun_fact = "Can't eat spicy things"
     self.hobbies = [
                'Music',
-			'Chilling',
+		 'Chilling',
                 'Gaming',
                'Badminton'
            ]
